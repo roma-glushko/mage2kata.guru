@@ -13,7 +13,7 @@ Solution is to:
 
 `view/base/requirejs-config.js`:
 
-```php{4}
+```php
 <?php
 /** @var \Magento\Framework\View\Element\Template $block */
 ?>

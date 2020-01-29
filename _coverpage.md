@@ -1,6 +1,6 @@
-<img src="_media/logo.png" alt="Mage2 Code Kata" width="58px" height="58px" />
+<img src="_media/logo.png" alt="Mage2 Kata Guru" width="58px" height="58px" />
 
-# Mage2Kata Guru
+# Mage2 Kata Guru
 
 > A list of exercises to improve Magento skills
 

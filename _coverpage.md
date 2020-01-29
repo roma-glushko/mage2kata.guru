@@ -1,7 +1,12 @@
-# Magento2 Code Katas
+<img src="_media/logo.png" alt="Mage2 Code Kata" width="58px" height="58px" />
 
-> A magical documentation site generator.
+# Mage2Kata Guru
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+> A list of exercises to improve Magento skills
+
+- Short ans quick tasks
+- Real-life use cases
+
+[Get Started](#mage2-code-katas)
+
+![color](#f2f8f7)

@@ -4,7 +4,8 @@
 
 > A list of exercises to improve Magento skills
 
-- Short and quick tasks
+- Short and quick tasks (~60mins)
+- Solutions Explained
 - Real-life use cases
 
 [Get Started](#mage2-code-katas)

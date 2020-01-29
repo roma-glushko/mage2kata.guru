@@ -1,4 +1,4 @@
-# Create New Validation Rule
+# Create Custom Validation Rule
 
 Create a new validation rule to validate email providers.
 

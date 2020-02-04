@@ -2,7 +2,7 @@
 
 # Mage2 Kata Guru
 
-> A list of exercises to improve Magento skills
+> A list of exercises to improve your Magento skills
 
 - Short and quick tasks (~60mins)
 - Solutions Explained

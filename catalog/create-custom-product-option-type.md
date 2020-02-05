@@ -234,7 +234,7 @@ class InformationTypeBlock extends Select
 /**
  * MageKata: Create Custom Product Option Type
  */
-
+ 
 use Glushko\MageKata\Block\Product\CustomOption\InformationTypeBlock;
 
 /** @var InformationTypeBlock $block */
@@ -249,14 +249,14 @@ $class .= ' ' . $option->getType();
         <span><?= $block->escapeHtml($option->getTitle()) ?></span>
     </label>
     <div class="control">
-        <input type="text"
+        <select type="text"
                id="options_<?= $block->escapeHtml($option->getId()) ?>"
                class="input-text product-custom-option"
                name="options[<?= $block->escapeHtml($option->getId()) ?>]"
-               value="<?= $block->escapeHtml($option->getData('placeholder')) ?>"
                disabled
-               readonly
-        />
+               readonly>
+            <option selected value="1"><?= $block->escapeHtml($option->getData('placeholder')) ?></option>
+        </select>
     </div>
 </div>
 ```

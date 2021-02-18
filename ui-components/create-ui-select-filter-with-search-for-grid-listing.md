@@ -1,6 +1,8 @@
 # Create a Search UI-Select listing filter
 
-Here we show how to make the listing filters searcheable
+Here we show how to make the listing filters searcheable.
+
+![Magento2 Kata - Searcheable and Multiple listing filter](searcheable-and-multiple-filter.png)
 
 ## Kata Solution
 
